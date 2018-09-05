@@ -8,3 +8,4 @@ commit id is hash code use 6-7 words to find repo
 git diff (show the change in copy)
 git checkout -- file.java
 git reset
+git checkout
