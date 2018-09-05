@@ -11,3 +11,8 @@ git reset
 git checkout
 
 make some confilct to pull
+
+
+
+
+make pull merge test
