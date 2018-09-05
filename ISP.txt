@@ -11,9 +11,7 @@ git reset
 git checkout
 
 make some confilct to pull
-
-
 sdafasf
 make agin
-
+dscf
 make pull merge test
