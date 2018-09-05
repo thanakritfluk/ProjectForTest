@@ -9,3 +9,5 @@ git diff (show the change in copy)
 git checkout -- file.java
 git reset
 git checkout
+
+make some confilct to pull
