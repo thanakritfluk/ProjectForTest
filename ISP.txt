@@ -1,6 +1,7 @@
 git ls-files
 git log
 git daofhsdku
+gitsdlnlsdflkn
 gitk (show detail in repo)
 
 commit id is hash code use 6-7 words to find repo
