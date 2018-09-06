@@ -3,6 +3,7 @@ git log
 git daofhsdku
 gitsdlnlsdflkn
 gitk (show detail in repo)
+fluk is cool
 
 commit id is hash code use 6-7 words to find repo
 
